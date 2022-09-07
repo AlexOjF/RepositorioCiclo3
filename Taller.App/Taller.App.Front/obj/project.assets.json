@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alex Orjuela\\.nuget\\packages\\": {}
+    "C:\\Users\\flore\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex Orjuela\\Desktop\\UCALDAS\\ciclo3\\ambienteDesarrolloProd\\Taller.App\\Taller.App.Front\\Taller.App.Front.csproj",
+      "projectUniqueName": "C:\\Users\\flore\\OneDrive\\Documents\\mintic-repositorio\\Ciclo_3\\RepositorioCiclo3\\Taller.App\\Taller.App.Front\\Taller.App.Front.csproj",
       "projectName": "Taller.App.Front",
-      "projectPath": "C:\\Users\\Alex Orjuela\\Desktop\\UCALDAS\\ciclo3\\ambienteDesarrolloProd\\Taller.App\\Taller.App.Front\\Taller.App.Front.csproj",
-      "packagesPath": "C:\\Users\\Alex Orjuela\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex Orjuela\\Desktop\\UCALDAS\\ciclo3\\ambienteDesarrolloProd\\Taller.App\\Taller.App.Front\\obj\\",
+      "projectPath": "C:\\Users\\flore\\OneDrive\\Documents\\mintic-repositorio\\Ciclo_3\\RepositorioCiclo3\\Taller.App\\Taller.App.Front\\Taller.App.Front.csproj",
+      "packagesPath": "C:\\Users\\flore\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\flore\\OneDrive\\Documents\\mintic-repositorio\\Ciclo_3\\RepositorioCiclo3\\Taller.App\\Taller.App.Front\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alex Orjuela\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\flore\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
