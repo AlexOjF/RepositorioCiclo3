@@ -1,0 +1,52 @@
+﻿@page
+@model MyApp.Namespace.VehiculosModel
+@{
+}
+<form class="row g-3">
+    <div class="col-auto">
+        <label for="staticEmail2" class="visually-hidden">Placa Vehiculo</label>
+        <input type="text" readonly class="form-control-plaintext" id="placaVehiculo" value="PlacaVehiculo">
+    </div>
+    <div class="col-auto">
+        <label for="inputPassword2" class="visually-hidden">Placa</label>
+        <input type="password" class="form-control" id="inputPassword2" placeholder=" Ejemplo: CCT002">
+    </div>
+    <div class="col-auto">
+        <button type="submit" class="btn btn-primary mb-3">Buscar</button>
+    </div>
+</form>
+
+<table  class="table"><caption>ConsultarVehiculos</caption>
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Placa</th>
+            <th scope="col">Modelo</th>
+            <th scope="col">Marca</th>
+            <th scope="col">Propietario</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">1</th>
+            <td>COL001</td>
+            <td>2012</td>
+            <td>Ford</td>
+            <td>Pepito Perez</td>
+        </tr>
+        <tr>
+            <th scope="row">2</th>
+            <td>AAA001</td>
+            <td>2022</td>
+            <td>Renault</td>
+            <td>Sutanito Ruiz</td>
+        </tr>
+        <tr>
+            <th scope="row">3</th>
+            <td>EEE002</td>
+            <td>2020</td>
+            <td>Tesla</td>
+            <td>Elon Musk</td>
+        </tr>
+    </tbody>
+</table>
